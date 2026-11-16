@@ -1,0 +1,3611 @@
+{
+  "schemaVersion": 1,
+  "levels": [
+    [
+      {
+        "text": "¿En qué provincia está el Aconcagua?",
+        "options": [
+          "Mendoza",
+          "San Juan",
+          "Salta",
+          "Neuquén"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué órgano bombea la sangre?",
+        "options": [
+          "Pulmón",
+          "Hígado",
+          "Riñón",
+          "Corazón"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Qué océano baña la costa argentina?",
+        "options": [
+          "Pacífico",
+          "Atlántico",
+          "Índico",
+          "Ártico"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Cuántos minutos tiene una hora y media?",
+        "options": [
+          "60",
+          "75",
+          "90",
+          "120"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Qué gas absorben las plantas al hacer fotosíntesis?",
+        "options": [
+          "Helio",
+          "Nitrógeno",
+          "Oxígeno",
+          "Dióxido de carbono"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿En qué deporte se juega Wimbledon?",
+        "options": [
+          "Golf",
+          "Pádel",
+          "Rugby",
+          "Tenis"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Cuál es el satélite natural de la Tierra?",
+        "options": [
+          "La Luna",
+          "El Sol",
+          "Marte",
+          "Titán"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos grados tiene un ángulo recto?",
+        "options": [
+          "90",
+          "45",
+          "180",
+          "60"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué sentido está asociado con la nariz?",
+        "options": [
+          "Vista",
+          "Tacto",
+          "Oído",
+          "Olfato"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Qué idioma se habla oficialmente en Brasil?",
+        "options": [
+          "Portugués",
+          "Español",
+          "Italiano",
+          "Francés"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué instrumento mide la temperatura?",
+        "options": [
+          "Brújula",
+          "Barómetro",
+          "Cronómetro",
+          "Termómetro"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Cuántos jugadores por equipo empiezan un partido de fútbol?",
+        "options": [
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuál es la capital de Argentina?",
+        "options": [
+          "Buenos Aires",
+          "Santiago",
+          "Brasilia",
+          "Madrid"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está el monte Fuji?",
+        "options": [
+          "Japón",
+          "China",
+          "Corea del Sur",
+          "Nepal"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está el Cristo Redentor de Río?",
+        "options": [
+          "Brasil",
+          "Chile",
+          "México",
+          "Perú"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Perú?",
+        "options": [
+          "Lima",
+          "Brasilia",
+          "Madrid",
+          "Lisboa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Brasil?",
+        "options": [
+          "Brasilia",
+          "Ciudad de México",
+          "Roma",
+          "Londres"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de México?",
+        "options": [
+          "Ciudad de México",
+          "París",
+          "Tokio",
+          "Buenos Aires"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Francia?",
+        "options": [
+          "París",
+          "Madrid",
+          "Lisboa",
+          "Santiago"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de España?",
+        "options": [
+          "Madrid",
+          "Roma",
+          "Londres",
+          "Montevideo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la Acrópolis de Atenas?",
+        "options": [
+          "Grecia",
+          "Turquía",
+          "Italia",
+          "Egipto"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Japón?",
+        "options": [
+          "Tokio",
+          "Lisboa",
+          "Santiago",
+          "Brasilia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Portugal?",
+        "options": [
+          "Lisboa",
+          "Londres",
+          "Montevideo",
+          "Ciudad de México"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Reino Unido?",
+        "options": [
+          "Londres",
+          "Buenos Aires",
+          "Lima",
+          "París"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «miau»?",
+        "options": [
+          "Gato",
+          "Perro",
+          "Pato",
+          "Rana"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «guau»?",
+        "options": [
+          "Perro",
+          "Vaca",
+          "Oveja",
+          "Pájaro"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «muuu»?",
+        "options": [
+          "Vaca",
+          "Cerdo",
+          "Gallo",
+          "Pavo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «oink»?",
+        "options": [
+          "Cerdo",
+          "Pato",
+          "Rana",
+          "Búho"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «cuac»?",
+        "options": [
+          "Pato",
+          "Oveja",
+          "Pájaro",
+          "Caballo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «beee»?",
+        "options": [
+          "Oveja",
+          "Gallo",
+          "Pavo",
+          "Gato"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «quiquiriquí»?",
+        "options": [
+          "Gallo",
+          "Rana",
+          "Búho",
+          "Perro"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «croac»?",
+        "options": [
+          "Rana",
+          "Pájaro",
+          "Caballo",
+          "Vaca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal se asocia con este sonido: «pío»?",
+        "options": [
+          "Pájaro",
+          "Pavo",
+          "Gato",
+          "Cerdo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué objeto se usa para cortar papel?",
+        "options": [
+          "Tijera",
+          "Tenedor",
+          "Cepillo",
+          "Vaso"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué fruta suele ser amarilla y curva?",
+        "options": [
+          "Banana",
+          "Ciruela",
+          "Sandía",
+          "Cereza"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal lleva su caparazón a cuestas?",
+        "options": [
+          "Tortuga",
+          "Zorro",
+          "Caballo",
+          "Lobo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál de estas aves suele nadar en el mar y no vuela?",
+        "options": [
+          "Pingüino",
+          "Gorrión",
+          "Halcón",
+          "Paloma"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Con qué parte del cuerpo oímos?",
+        "options": [
+          "Oídos",
+          "Rodillas",
+          "Codos",
+          "Dedos"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué astro ilumina la Tierra durante el día?",
+        "options": [
+          "Sol",
+          "Marte",
+          "Venus",
+          "Saturno"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué se derrite al subir la temperatura?",
+        "options": [
+          "Hielo",
+          "Papel",
+          "Madera",
+          "Arena"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué instrumento tiene teclas blancas y negras?",
+        "options": [
+          "Piano",
+          "Violín",
+          "Trompeta",
+          "Tambor"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué se coloca en el dedo para coser sin pincharse?",
+        "options": [
+          "Dedal",
+          "Bufanda",
+          "Hebilla",
+          "Cordón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué deporte se juega con raqueta, red y una pelota amarilla de fieltro?",
+        "options": [
+          "Tenis",
+          "Básquet",
+          "Hockey",
+          "Rugby"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué deporte se encesta la pelota?",
+        "options": [
+          "Básquet",
+          "Vóley",
+          "Rugby",
+          "Natación"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué se usa para patear normalmente una pelota de fútbol?",
+        "options": [
+          "Pie",
+          "Codo",
+          "Mano",
+          "Hombro"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué prenda suele tener visera?",
+        "options": [
+          "Gorra",
+          "Remera",
+          "Pantalón",
+          "Media"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué tiene ruedas y pedales?",
+        "options": [
+          "Bicicleta",
+          "Lancha",
+          "Helicóptero",
+          "Tren"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué estación florecen muchas plantas tras el invierno?",
+        "options": [
+          "Primavera",
+          "Otoño",
+          "Invierno",
+          "Verano"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué mes se celebra Navidad?",
+        "options": [
+          "Diciembre",
+          "Febrero",
+          "Mayo",
+          "Julio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué día sigue al martes?",
+        "options": [
+          "Miércoles",
+          "Jueves",
+          "Lunes",
+          "Domingo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué mes sigue a abril?",
+        "options": [
+          "Mayo",
+          "Marzo",
+          "Junio",
+          "Agosto"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos minutos hay en media hora?",
+        "options": [
+          "30",
+          "15",
+          "45",
+          "60"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántas horas hay en dos días completos?",
+        "options": [
+          "48",
+          "24",
+          "36",
+          "72"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos días tiene una semana?",
+        "options": [
+          "7",
+          "5",
+          "6",
+          "8"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos meses hay en dos años?",
+        "options": [
+          "24",
+          "12",
+          "18",
+          "36"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué se pone en un sobre para enviarlo por correo tradicional?",
+        "options": [
+          "Estampilla",
+          "Llave",
+          "Imán",
+          "Goma"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué objeto indica dónde está el norte?",
+        "options": [
+          "Brújula",
+          "Reloj de arena",
+          "Balanza",
+          "Lupa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué color resulta al mezclar témperas roja y blanca?",
+        "options": [
+          "Rosa",
+          "Violeta",
+          "Marrón",
+          "Verde"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué figura tiene cuatro lados iguales y cuatro ángulos rectos?",
+        "options": [
+          "Cuadrado",
+          "Triángulo",
+          "Círculo",
+          "Trapecio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué figura se parece a una pelota?",
+        "options": [
+          "Esfera",
+          "Cubo",
+          "Pirámide",
+          "Cono"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué pieza de ajedrez representa a un jinete?",
+        "options": [
+          "Caballo",
+          "Alfil",
+          "Torre",
+          "Peón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué deporte se utiliza una tabla para deslizarse sobre olas?",
+        "options": [
+          "Surf",
+          "Esgrima",
+          "Golf",
+          "Ciclismo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Con qué se golpea la pelota en béisbol?",
+        "options": [
+          "Bate",
+          "Raqueta",
+          "Palo de golf",
+          "Remo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué fruta se usa para elaborar vino?",
+        "options": [
+          "Uva",
+          "Pera",
+          "Limón",
+          "Manzana"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué parte del árbol absorbe agua del suelo?",
+        "options": [
+          "Raíz",
+          "Flor",
+          "Fruto",
+          "Hoja"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal da origen a la lana más habitual?",
+        "options": [
+          "Oveja",
+          "Gallina",
+          "Conejo",
+          "Pato"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal tiene una trompa larga?",
+        "options": [
+          "Elefante",
+          "Hipopótamo",
+          "Jirafa",
+          "Rinoceronte"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué insecto produce miel?",
+        "options": [
+          "Abeja",
+          "Hormiga",
+          "Mosca",
+          "Mosquito"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué alimento se prepara principalmente con harina, agua y levadura?",
+        "options": [
+          "Pan",
+          "Helado",
+          "Ensalada",
+          "Yogur"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué bebida se prepara con yerba y bombilla?",
+        "options": [
+          "Mate",
+          "Café",
+          "Jugo",
+          "Limonada"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿De qué provincia argentina es capital la ciudad de Córdoba?",
+        "options": [
+          "Córdoba",
+          "Mendoza",
+          "Salta",
+          "Neuquén"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la Torre Eiffel?",
+        "options": [
+          "Francia",
+          "Italia",
+          "Alemania",
+          "Grecia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país se encuentra la Gran Muralla?",
+        "options": [
+          "China",
+          "India",
+          "Japón",
+          "Tailandia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está el Coliseo de Roma?",
+        "options": [
+          "Italia",
+          "España",
+          "Grecia",
+          "Portugal"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país se encuentran las pirámides de Guiza?",
+        "options": [
+          "Egipto",
+          "Marruecos",
+          "Kenia",
+          "Sudáfrica"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal es famoso por dormir colgado boca abajo?",
+        "options": [
+          "Murciélago",
+          "Tortuga",
+          "Caballo",
+          "Foca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cómo se llama la montaña por la que baja agua caliente o lava en una erupción?",
+        "options": [
+          "Volcán",
+          "Valle",
+          "Meseta",
+          "Cañón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué estado está el agua al congelarse?",
+        "options": [
+          "Sólido",
+          "Gaseoso",
+          "Plasma",
+          "Líquido"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Con qué respiramos principalmente?",
+        "options": [
+          "Pulmones",
+          "Hígado",
+          "Riñones",
+          "Estómago"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué parte del cuerpo conecta la cabeza con el tronco?",
+        "options": [
+          "Cuello",
+          "Talón",
+          "Muñeca",
+          "Rodilla"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cómo se llama el médico que atiende los dientes?",
+        "options": [
+          "Odontólogo",
+          "Oculista",
+          "Cardiólogo",
+          "Dermatólogo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál de estas palabras es un color?",
+        "options": [
+          "Azul",
+          "Correr",
+          "Silla",
+          "Ayer"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el plural de «luz»?",
+        "options": [
+          "Luces",
+          "Luzes",
+          "Luzas",
+          "Luzos"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué palabra significa lo contrario de «cerca»?",
+        "options": [
+          "Lejos",
+          "Al lado",
+          "Junto",
+          "Próximo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué palabra rima con «canción»?",
+        "options": [
+          "Corazón",
+          "Camisa",
+          "Árbol",
+          "Madera"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué signo abre una pregunta en español?",
+        "options": [
+          "¿",
+          "¡",
+          ";",
+          ":"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué personaje de Nintendo suele vestir de rojo y llevar bigote?",
+        "options": [
+          "Mario",
+          "Link",
+          "Kirby",
+          "Pikachu"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué personaje de Disney es un pato con ropa de marinero?",
+        "options": [
+          "Donald",
+          "Mickey",
+          "Goofy",
+          "Pluto"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el nombre de la vaquera de Toy Story?",
+        "options": [
+          "Jessie",
+          "Elsa",
+          "Ariel",
+          "Bella"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué personaje vive en una piña debajo del mar?",
+        "options": [
+          "Bob Esponja",
+          "Peppa Pig",
+          "Garfield",
+          "Scooby-Doo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal es Simba en El rey león?",
+        "options": [
+          "León",
+          "Tigre",
+          "Puma",
+          "Jaguar"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué personaje perdió un zapato de cristal?",
+        "options": [
+          "Cenicienta",
+          "Rapunzel",
+          "Mulán",
+          "Pocahontas"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué objeto se utiliza para borrar lápiz de grafito?",
+        "options": [
+          "Goma",
+          "Sacapuntas",
+          "Regla",
+          "Compás"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué herramienta sirve para clavar un clavo?",
+        "options": [
+          "Martillo",
+          "Pincel",
+          "Sierra",
+          "Llave inglesa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué vehículo se desplaza sobre rieles?",
+        "options": [
+          "Tren",
+          "Colectivo",
+          "Avión",
+          "Camión"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué instrumento indica cuánto pesa algo?",
+        "options": [
+          "Balanza",
+          "Brújula",
+          "Reloj",
+          "Microscopio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué órgano utilizamos principalmente para ver?",
+        "options": [
+          "Ojos",
+          "Oídos",
+          "Manos",
+          "Pies"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿De qué color es la luz del semáforo que indica detenerse?",
+        "options": [
+          "Roja",
+          "Verde",
+          "Azul",
+          "Blanca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cómo se llama la persona que conduce un avión?",
+        "options": [
+          "Piloto",
+          "Árbitro",
+          "Marinero",
+          "Cartero"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa una docena?",
+        "options": [
+          "12",
+          "10",
+          "15",
+          "20"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos centímetros hay en un metro?",
+        "options": [
+          "100",
+          "10",
+          "50",
+          "1000"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos vértices tiene un triángulo?",
+        "options": [
+          "3",
+          "2",
+          "4",
+          "6"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número par aparece entre 15 y 17?",
+        "options": [
+          "16",
+          "15",
+          "17",
+          "19"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es el doble de 15?",
+        "options": [
+          "30",
+          "20",
+          "25",
+          "35"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es la mitad de 18?",
+        "options": [
+          "9",
+          "6",
+          "8",
+          "12"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué letra viene después de la P?",
+        "options": [
+          "Q",
+          "R",
+          "O",
+          "S"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal tiene el cuello especialmente largo?",
+        "options": [
+          "Jirafa",
+          "Cebra",
+          "León",
+          "Foca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal conocido cambia de color y tiene una lengua muy larga?",
+        "options": [
+          "Camaleón",
+          "Erizo",
+          "Delfín",
+          "Liebre"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal de granja suele poner huevos para consumo humano?",
+        "options": [
+          "Gallina",
+          "Cerdo",
+          "Oveja",
+          "Vaca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué deporte se nada, se pedalea y se corre?",
+        "options": [
+          "Triatlón",
+          "Béisbol",
+          "Esquí",
+          "Hockey"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué parte de la planta se convierte normalmente en fruto?",
+        "options": [
+          "Flor",
+          "Raíz",
+          "Tallo",
+          "Hoja"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué gas de los siguientes necesitamos para respirar?",
+        "options": [
+          "Oxígeno",
+          "Helio",
+          "Argón",
+          "Neón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué parte de un libro indica sus capítulos y páginas?",
+        "options": [
+          "Índice",
+          "Portada",
+          "Lomo",
+          "Contratapa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué objeto se usa para observar detalles pequeños a simple aumento?",
+        "options": [
+          "Lupa",
+          "Telescopio",
+          "Silbato",
+          "Linterna"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué comida italiana suele llevar masa circular, tomate y queso?",
+        "options": [
+          "Pizza",
+          "Risotto",
+          "Ravioles",
+          "Sopa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué insecto pasa por una etapa de oruga?",
+        "options": [
+          "Mariposa",
+          "Mosquito",
+          "Abeja",
+          "Hormiga"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué se usa para abrir una cerradura común?",
+        "options": [
+          "Llave",
+          "Moneda",
+          "Borrador",
+          "Regla"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué animal tiene rayas blancas y negras en todo su cuerpo?",
+        "options": [
+          "Cebra",
+          "Jirafa",
+          "Camello",
+          "Hipopótamo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál de estos objetos da luz al encenderlo con una llama?",
+        "options": [
+          "Vela",
+          "Martillo",
+          "Bufanda",
+          "Escoba"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué es más largo: un kilómetro o un metro?",
+        "options": [
+          "Un kilómetro",
+          "Un metro",
+          "Miden igual",
+          "Un centímetro"
+        ],
+        "correct": 0
+      }
+    ],
+    [
+      {
+        "text": "¿Cuál es el planeta más grande?",
+        "options": [
+          "Marte",
+          "Júpiter",
+          "Saturno",
+          "Venus"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Cuántos lados tiene un hexágono?",
+        "options": [
+          "Cinco",
+          "Ocho",
+          "Siete",
+          "Seis"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Cuánto es 7 × 8?",
+        "options": [
+          "48",
+          "54",
+          "56",
+          "64"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuál es la capital de Uruguay?",
+        "options": [
+          "Montevideo",
+          "Asunción",
+          "Santiago",
+          "Lima"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué instrumento suele tener 88 teclas?",
+        "options": [
+          "Piano",
+          "Violín",
+          "Trompeta",
+          "Flauta"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué planeta es conocido como el planeta rojo?",
+        "options": [
+          "Venus",
+          "Marte",
+          "Mercurio",
+          "Neptuno"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Quién escribió Don Quijote de la Mancha?",
+        "options": [
+          "Pablo Neruda",
+          "Julio Cortázar",
+          "Miguel de Cervantes",
+          "Federico García Lorca"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuántos metros hay en un kilómetro?",
+        "options": [
+          "1.000",
+          "100",
+          "10.000",
+          "10"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿De qué país es la ciudad de Río de Janeiro?",
+        "options": [
+          "Perú",
+          "Brasil",
+          "Colombia",
+          "Ecuador"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Qué significan las letras H y O en H₂O?",
+        "options": [
+          "Helio y oro",
+          "Hierro y osmio",
+          "Hidrógeno y oro",
+          "Hidrógeno y oxígeno"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Cuál es la capital de Chile?",
+        "options": [
+          "Valparaíso",
+          "Concepción",
+          "Santiago",
+          "Antofagasta"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuál es la capital de Italia?",
+        "options": [
+          "Roma",
+          "Milán",
+          "Venecia",
+          "Nápoles"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Mendoza?",
+        "options": [
+          "Mendoza",
+          "San Miguel de Tucumán",
+          "Resistencia",
+          "Paraná"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Tucumán?",
+        "options": [
+          "San Miguel de Tucumán",
+          "Santa Fe",
+          "Posadas",
+          "Viedma"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Santa Fe?",
+        "options": [
+          "Santa Fe",
+          "La Plata",
+          "Corrientes",
+          "Rawson"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Buenos Aires?",
+        "options": [
+          "La Plata",
+          "Resistencia",
+          "Paraná",
+          "Río Gallegos"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Chaco?",
+        "options": [
+          "Resistencia",
+          "Posadas",
+          "Viedma",
+          "Ushuaia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Misiones?",
+        "options": [
+          "Posadas",
+          "Corrientes",
+          "Rawson",
+          "Mendoza"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Corrientes?",
+        "options": [
+          "Corrientes",
+          "Paraná",
+          "Río Gallegos",
+          "San Miguel de Tucumán"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Entre Ríos?",
+        "options": [
+          "Paraná",
+          "Viedma",
+          "Ushuaia",
+          "Santa Fe"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Río Negro?",
+        "options": [
+          "Viedma",
+          "Rawson",
+          "Mendoza",
+          "La Plata"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Chubut?",
+        "options": [
+          "Rawson",
+          "Río Gallegos",
+          "San Miguel de Tucumán",
+          "Resistencia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Santa Cruz?",
+        "options": [
+          "Río Gallegos",
+          "Ushuaia",
+          "Santa Fe",
+          "Posadas"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de la provincia argentina de Tierra del Fuego?",
+        "options": [
+          "Ushuaia",
+          "Mendoza",
+          "La Plata",
+          "Corrientes"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de oxígeno?",
+        "options": [
+          "O",
+          "H",
+          "Fe",
+          "Cu"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de hidrógeno?",
+        "options": [
+          "H",
+          "C",
+          "Au",
+          "Na"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de carbono?",
+        "options": [
+          "C",
+          "N",
+          "Ag",
+          "K"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de nitrógeno?",
+        "options": [
+          "N",
+          "Fe",
+          "Cu",
+          "Ca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de hierro?",
+        "options": [
+          "Fe",
+          "Au",
+          "Na",
+          "He"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico del magnesio?",
+        "options": [
+          "Mg",
+          "Mn",
+          "Mo",
+          "Mt"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de plata?",
+        "options": [
+          "Ag",
+          "Cu",
+          "Ca",
+          "H"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de cobre?",
+        "options": [
+          "Cu",
+          "Na",
+          "He",
+          "C"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de sodio?",
+        "options": [
+          "Na",
+          "K",
+          "O",
+          "N"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de potasio?",
+        "options": [
+          "K",
+          "Ca",
+          "H",
+          "Fe"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de calcio?",
+        "options": [
+          "Ca",
+          "He",
+          "C",
+          "Au"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el símbolo químico de helio?",
+        "options": [
+          "He",
+          "O",
+          "N",
+          "Ag"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 1930?",
+        "options": [
+          "Uruguay",
+          "Inglaterra",
+          "Italia",
+          "Alemania"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 1966?",
+        "options": [
+          "Inglaterra",
+          "Brasil",
+          "Francia",
+          "Uruguay"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 1970?",
+        "options": [
+          "Brasil",
+          "Argentina",
+          "España",
+          "Inglaterra"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 1978?",
+        "options": [
+          "Argentina",
+          "Italia",
+          "Alemania",
+          "Brasil"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 1982?",
+        "options": [
+          "Italia",
+          "Francia",
+          "Uruguay",
+          "Argentina"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 1998?",
+        "options": [
+          "Francia",
+          "España",
+          "Inglaterra",
+          "Italia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 2010?",
+        "options": [
+          "España",
+          "Alemania",
+          "Brasil",
+          "Francia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país ganó el Mundial masculino de fútbol de 2014?",
+        "options": [
+          "Alemania",
+          "Uruguay",
+          "Argentina",
+          "España"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano IV?",
+        "options": [
+          "4",
+          "9",
+          "24",
+          "90"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano IX?",
+        "options": [
+          "9",
+          "14",
+          "40",
+          "100"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano XIV?",
+        "options": [
+          "14",
+          "19",
+          "60",
+          "150"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano XIX?",
+        "options": [
+          "19",
+          "24",
+          "90",
+          "500"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano XXIV?",
+        "options": [
+          "24",
+          "40",
+          "100",
+          "1000"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano XL?",
+        "options": [
+          "40",
+          "60",
+          "150",
+          "4"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano LX?",
+        "options": [
+          "60",
+          "90",
+          "500",
+          "9"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano XC?",
+        "options": [
+          "90",
+          "100",
+          "1000",
+          "14"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano C?",
+        "options": [
+          "100",
+          "150",
+          "4",
+          "19"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano CL?",
+        "options": [
+          "150",
+          "500",
+          "9",
+          "24"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano D?",
+        "options": [
+          "500",
+          "1000",
+          "14",
+          "40"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué número representa el romano M?",
+        "options": [
+          "1000",
+          "4",
+          "19",
+          "60"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Auckland?",
+        "options": [
+          "Nueva Zelanda",
+          "Australia",
+          "Italia",
+          "Argentina"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Melbourne?",
+        "options": [
+          "Australia",
+          "Canadá",
+          "Perú",
+          "Colombia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Vancouver?",
+        "options": [
+          "Canadá",
+          "España",
+          "Chile",
+          "Suiza"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Barcelona?",
+        "options": [
+          "España",
+          "Italia",
+          "Argentina",
+          "Portugal"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Florencia?",
+        "options": [
+          "Italia",
+          "Perú",
+          "Colombia",
+          "Alemania"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Cusco?",
+        "options": [
+          "Perú",
+          "Chile",
+          "Suiza",
+          "Nueva Zelanda"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Valparaíso?",
+        "options": [
+          "Chile",
+          "Argentina",
+          "Portugal",
+          "Australia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Rosario?",
+        "options": [
+          "Argentina",
+          "Colombia",
+          "Alemania",
+          "Canadá"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Medellín?",
+        "options": [
+          "Colombia",
+          "Suiza",
+          "Nueva Zelanda",
+          "España"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Ginebra?",
+        "options": [
+          "Suiza",
+          "Portugal",
+          "Australia",
+          "Italia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Oporto?",
+        "options": [
+          "Portugal",
+          "Alemania",
+          "Canadá",
+          "Perú"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país está la ciudad de Hamburgo?",
+        "options": [
+          "Alemania",
+          "Nueva Zelanda",
+          "España",
+          "Chile"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La vuelta al mundo en ochenta días»?",
+        "options": [
+          "Julio Verne",
+          "Victor Hugo",
+          "Émile Zola",
+          "Gustave Flaubert"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «El principito»?",
+        "options": [
+          "Antoine de Saint-Exupéry",
+          "William Shakespeare",
+          "Julio Cortázar",
+          "Jane Austen"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Romeo y Julieta»?",
+        "options": [
+          "William Shakespeare",
+          "Homero",
+          "José Hernández",
+          "Mary Shelley"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «La Odisea»?",
+        "options": [
+          "Homero",
+          "Gabriel García Márquez",
+          "Isabel Allende",
+          "Lewis Carroll"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Cien años de soledad»?",
+        "options": [
+          "Gabriel García Márquez",
+          "Julio Cortázar",
+          "Jane Austen",
+          "Bram Stoker"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Rayuela»?",
+        "options": [
+          "Julio Cortázar",
+          "José Hernández",
+          "Mary Shelley",
+          "Miguel de Cervantes"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Martín Fierro»?",
+        "options": [
+          "José Hernández",
+          "Isabel Allende",
+          "Lewis Carroll",
+          "Antoine de Saint-Exupéry"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «La casa de los espíritus»?",
+        "options": [
+          "Isabel Allende",
+          "Jane Austen",
+          "Bram Stoker",
+          "William Shakespeare"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Orgullo y prejuicio»?",
+        "options": [
+          "Jane Austen",
+          "Mary Shelley",
+          "Miguel de Cervantes",
+          "Homero"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Frankenstein»?",
+        "options": [
+          "Mary Shelley",
+          "Lewis Carroll",
+          "Antoine de Saint-Exupéry",
+          "Gabriel García Márquez"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Alicia en el país de las maravillas»?",
+        "options": [
+          "Lewis Carroll",
+          "Bram Stoker",
+          "William Shakespeare",
+          "Julio Cortázar"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el autor o la autora de «Drácula»?",
+        "options": [
+          "Bram Stoker",
+          "Miguel de Cervantes",
+          "Homero",
+          "José Hernández"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué instrumento mide la presión atmosférica?",
+        "options": [
+          "Barómetro",
+          "Anemómetro",
+          "Voltímetro",
+          "Cronómetro"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué mide un odómetro de un auto?",
+        "options": [
+          "Distancia recorrida",
+          "Temperatura",
+          "Presión de neumáticos",
+          "Nivel de aceite"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cómo se llama el paso directo de sólido a gas?",
+        "options": [
+          "Sublimación",
+          "Fusión",
+          "Condensación",
+          "Solidificación"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué órgano produce insulina?",
+        "options": [
+          "Páncreas",
+          "Pulmón",
+          "Corazón",
+          "Estómago"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué órgano filtra la sangre y produce orina?",
+        "options": [
+          "Riñón",
+          "Bazo",
+          "Intestino",
+          "Pulmón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué unidad mide la frecuencia?",
+        "options": [
+          "Hercio",
+          "Newton",
+          "Pascal",
+          "Julio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué país tiene forma de bota en el mapa de Europa?",
+        "options": [
+          "Italia",
+          "Portugal",
+          "Bélgica",
+          "Dinamarca"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué año se declaró la Independencia argentina?",
+        "options": [
+          "1816",
+          "1810",
+          "1853",
+          "1825"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué ciudad se declaró la Independencia argentina?",
+        "options": [
+          "San Miguel de Tucumán",
+          "Mendoza",
+          "Córdoba",
+          "Buenos Aires"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién creó la bandera argentina?",
+        "options": [
+          "Manuel Belgrano",
+          "José de San Martín",
+          "Domingo F. Sarmiento",
+          "Mariano Moreno"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué cordillera cruzó el Ejército de los Andes?",
+        "options": [
+          "Andes",
+          "Alpes",
+          "Pirineos",
+          "Apeninos"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué provincia está la ciudad de San Rafael?",
+        "options": [
+          "Mendoza",
+          "San Juan",
+          "Córdoba",
+          "La Pampa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Con qué país limita Mendoza al oeste?",
+        "options": [
+          "Chile",
+          "Brasil",
+          "Bolivia",
+          "Uruguay"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué continente está Kenia?",
+        "options": [
+          "África",
+          "Asia",
+          "Europa",
+          "América"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué rama de la ciencia estudia los terremotos?",
+        "options": [
+          "Sismología",
+          "Botánica",
+          "Astronomía",
+          "Oceanografía"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué tipo de palabra es «rápidamente»?",
+        "options": [
+          "Adverbio",
+          "Verbo",
+          "Sustantivo",
+          "Artículo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el antónimo de «escaso»?",
+        "options": [
+          "Abundante",
+          "Reducido",
+          "Limitado",
+          "Pequeño"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál de estas palabras es esdrújula?",
+        "options": [
+          "Música",
+          "Reloj",
+          "Papel",
+          "Camión"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué género literario usa versos habitualmente?",
+        "options": [
+          "Poesía",
+          "Ensayo",
+          "Noticia",
+          "Diccionario"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué banda grabó «De música ligera»?",
+        "options": [
+          "Soda Stereo",
+          "Los Redondos",
+          "Los Abuelos de la Nada",
+          "Los Fabulosos Cadillacs"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué músico fue cantante de Soda Stereo?",
+        "options": [
+          "Gustavo Cerati",
+          "Fito Páez",
+          "Andrés Calamaro",
+          "Luis Alberto Spinetta"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué instrumento se asocia con el tango de Astor Piazzolla?",
+        "options": [
+          "Bandoneón",
+          "Arpa",
+          "Flauta dulce",
+          "Trombón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué deporte se usa el término «touchdown»?",
+        "options": [
+          "Fútbol americano",
+          "Rugby",
+          "Básquet",
+          "Béisbol"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué deporte se disputa el Tour de Francia?",
+        "options": [
+          "Ciclismo",
+          "Atletismo",
+          "Natación",
+          "Automovilismo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué evento deportivo tiene etapas disputadas en tierra, arena y otros terrenos y lleva el nombre Dakar?",
+        "options": [
+          "Rally",
+          "Maratón acuática",
+          "Gran premio de pista",
+          "Regata"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué pieza de ajedrez solo se desplaza en diagonal?",
+        "options": [
+          "Alfil",
+          "Torre",
+          "Reina",
+          "Rey"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué color comienza una partida de ajedrez?",
+        "options": [
+          "Blanco",
+          "Negro",
+          "Rojo",
+          "Depende del reloj"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es el 15 % de 200?",
+        "options": [
+          "30",
+          "15",
+          "20",
+          "40"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántos gramos hay en 2,5 kg?",
+        "options": [
+          "2500",
+          "250",
+          "25",
+          "25000"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es 3 al cuadrado más 4 al cuadrado?",
+        "options": [
+          "25",
+          "7",
+          "14",
+          "49"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto suman los ángulos internos de un triángulo plano?",
+        "options": [
+          "180°",
+          "90°",
+          "270°",
+          "360°"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el opuesto de 3 en la recta numérica?",
+        "options": [
+          "−3",
+          "0",
+          "3",
+          "6"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es 225 dividido por 15?",
+        "options": [
+          "15",
+          "12",
+          "18",
+          "20"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto son tres cuartos de una hora?",
+        "options": [
+          "45 min",
+          "15 min",
+          "30 min",
+          "50 min"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué tecla suele iniciar una nueva línea al escribir?",
+        "options": [
+          "Enter",
+          "Mayús",
+          "Tab",
+          "Ctrl"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué extensión suele indicar un archivo de imagen?",
+        "options": [
+          ".png",
+          ".mp3",
+          ".txt",
+          ".wav"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué formato se usa habitualmente para audio digital?",
+        "options": [
+          "MP3",
+          "PNG",
+          "CSV",
+          "SVG"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué herramienta amplía objetos celestes distantes?",
+        "options": [
+          "Telescopio",
+          "Microscopio",
+          "Barómetro",
+          "Podómetro"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué tipo de energía aprovecha un panel fotovoltaico?",
+        "options": [
+          "Solar",
+          "Geotérmica",
+          "Eólica",
+          "Mareomotriz"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué parte de una célula humana contiene la mayor parte de su ADN?",
+        "options": [
+          "Núcleo",
+          "Membrana",
+          "Citoplasma",
+          "Ribosoma"
+        ],
+        "correct": 0
+      }
+    ],
+    [
+      {
+        "text": "¿Qué número sigue en la serie 2, 4, 8, 16?",
+        "options": [
+          "20",
+          "24",
+          "32",
+          "30"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuántas provincias tiene Argentina?",
+        "options": [
+          "24",
+          "23",
+          "22",
+          "25"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Cuál es el animal terrestre más rápido?",
+        "options": [
+          "León",
+          "Avestruz",
+          "Guepardo",
+          "Caballo"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuánto es el 25 % de 80?",
+        "options": [
+          "20",
+          "15",
+          "25",
+          "40"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué año ganó Argentina el Mundial de Qatar?",
+        "options": [
+          "2014",
+          "2018",
+          "2026",
+          "2022"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Qué metal tiene el símbolo Au?",
+        "options": [
+          "Plata",
+          "Oro",
+          "Cobre",
+          "Aluminio"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿En qué continente está Egipto principalmente?",
+        "options": [
+          "Europa",
+          "África",
+          "Asia",
+          "Oceanía"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Cuántos días tiene un año bisiesto?",
+        "options": [
+          "364",
+          "365",
+          "366",
+          "367"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Cuál de estos animales es un mamífero?",
+        "options": [
+          "Tiburón",
+          "Pulpo",
+          "Pingüino",
+          "Delfín"
+        ],
+        "correct": 3
+      },
+      {
+        "text": "¿Cuánto es 144 ÷ 12?",
+        "options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Qué océano baña la costa de Chile continental?",
+        "options": [
+          "Atlántico",
+          "Índico",
+          "Pacífico",
+          "Ártico"
+        ],
+        "correct": 2
+      },
+      {
+        "text": "¿Qué número romano representa el 50?",
+        "options": [
+          "X",
+          "L",
+          "C",
+          "V"
+        ],
+        "correct": 1
+      },
+      {
+        "text": "¿Cuál es la capital de Canadá?",
+        "options": [
+          "Ottawa",
+          "Canberra",
+          "Rabat",
+          "Adís Abeba"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Australia?",
+        "options": [
+          "Canberra",
+          "Wellington",
+          "Abuya",
+          "Reikiavik"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Nueva Zelanda?",
+        "options": [
+          "Wellington",
+          "Ankara",
+          "Nairobi",
+          "Oslo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Turquía?",
+        "options": [
+          "Ankara",
+          "Rabat",
+          "Adís Abeba",
+          "Helsinki"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Marruecos?",
+        "options": [
+          "Rabat",
+          "Abuya",
+          "Reikiavik",
+          "Tallin"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Nigeria?",
+        "options": [
+          "Abuya",
+          "Nairobi",
+          "Oslo",
+          "Riga"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Kenia?",
+        "options": [
+          "Nairobi",
+          "Adís Abeba",
+          "Helsinki",
+          "Vilna"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Etiopía?",
+        "options": [
+          "Adís Abeba",
+          "Reikiavik",
+          "Tallin",
+          "Varsovia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Islandia?",
+        "options": [
+          "Reikiavik",
+          "Oslo",
+          "Riga",
+          "Budapest"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Noruega?",
+        "options": [
+          "Oslo",
+          "Helsinki",
+          "Vilna",
+          "Bucarest"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Finlandia?",
+        "options": [
+          "Helsinki",
+          "Tallin",
+          "Varsovia",
+          "Sofía"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Estonia?",
+        "options": [
+          "Tallin",
+          "Riga",
+          "Budapest",
+          "Zagreb"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Letonia?",
+        "options": [
+          "Riga",
+          "Vilna",
+          "Bucarest",
+          "Bratislava"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Lituania?",
+        "options": [
+          "Vilna",
+          "Varsovia",
+          "Sofía",
+          "Liubliana"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Polonia?",
+        "options": [
+          "Varsovia",
+          "Budapest",
+          "Zagreb",
+          "Hanói"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Hungría?",
+        "options": [
+          "Budapest",
+          "Bucarest",
+          "Bratislava",
+          "Ulán Bator"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Rumania?",
+        "options": [
+          "Bucarest",
+          "Sofía",
+          "Liubliana",
+          "Manila"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Bulgaria?",
+        "options": [
+          "Sofía",
+          "Zagreb",
+          "Hanói",
+          "Ottawa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Croacia?",
+        "options": [
+          "Zagreb",
+          "Bratislava",
+          "Ulán Bator",
+          "Canberra"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Eslovaquia?",
+        "options": [
+          "Bratislava",
+          "Liubliana",
+          "Manila",
+          "Wellington"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Eslovenia?",
+        "options": [
+          "Liubliana",
+          "Hanói",
+          "Ottawa",
+          "Ankara"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Vietnam?",
+        "options": [
+          "Hanói",
+          "Ulán Bator",
+          "Canberra",
+          "Rabat"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Mongolia?",
+        "options": [
+          "Ulán Bator",
+          "Manila",
+          "Wellington",
+          "Abuya"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la capital de Filipinas?",
+        "options": [
+          "Manila",
+          "Ottawa",
+          "Ankara",
+          "Nairobi"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo W?",
+        "options": [
+          "Wolframio",
+          "Antimonio",
+          "Mercurio",
+          "Litio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Sb?",
+        "options": [
+          "Antimonio",
+          "Estaño",
+          "Zinc",
+          "Berilio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Sn?",
+        "options": [
+          "Estaño",
+          "Plomo",
+          "Silicio",
+          "Manganeso"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Pb?",
+        "options": [
+          "Plomo",
+          "Mercurio",
+          "Litio",
+          "Níquel"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Hg?",
+        "options": [
+          "Mercurio",
+          "Zinc",
+          "Berilio",
+          "Cobalto"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Zn?",
+        "options": [
+          "Zinc",
+          "Silicio",
+          "Manganeso",
+          "Cromo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Si?",
+        "options": [
+          "Silicio",
+          "Litio",
+          "Níquel",
+          "Xenón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Li?",
+        "options": [
+          "Litio",
+          "Berilio",
+          "Cobalto",
+          "Kriptón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Be?",
+        "options": [
+          "Berilio",
+          "Manganeso",
+          "Cromo",
+          "Radón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Mn?",
+        "options": [
+          "Manganeso",
+          "Níquel",
+          "Xenón",
+          "Bromo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Ni?",
+        "options": [
+          "Níquel",
+          "Cobalto",
+          "Kriptón",
+          "Astato"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Co?",
+        "options": [
+          "Cobalto",
+          "Cromo",
+          "Radón",
+          "Tecnecio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Cr?",
+        "options": [
+          "Cromo",
+          "Xenón",
+          "Bromo",
+          "Niobio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Xe?",
+        "options": [
+          "Xenón",
+          "Kriptón",
+          "Astato",
+          "Molibdeno"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Kr?",
+        "options": [
+          "Kriptón",
+          "Radón",
+          "Tecnecio",
+          "Vanadio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Rn?",
+        "options": [
+          "Radón",
+          "Bromo",
+          "Niobio",
+          "Iridio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Br?",
+        "options": [
+          "Bromo",
+          "Astato",
+          "Molibdeno",
+          "Osmio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo At?",
+        "options": [
+          "Astato",
+          "Tecnecio",
+          "Vanadio",
+          "Wolframio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Tc?",
+        "options": [
+          "Tecnecio",
+          "Niobio",
+          "Iridio",
+          "Antimonio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Nb?",
+        "options": [
+          "Niobio",
+          "Molibdeno",
+          "Osmio",
+          "Estaño"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Mo?",
+        "options": [
+          "Molibdeno",
+          "Vanadio",
+          "Wolframio",
+          "Plomo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo V?",
+        "options": [
+          "Vanadio",
+          "Iridio",
+          "Antimonio",
+          "Mercurio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Ir?",
+        "options": [
+          "Iridio",
+          "Osmio",
+          "Estaño",
+          "Zinc"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué elemento químico tiene el símbolo Os?",
+        "options": [
+          "Osmio",
+          "Wolframio",
+          "Plomo",
+          "Silicio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Ficciones»?",
+        "options": [
+          "Jorge Luis Borges",
+          "Juan Rulfo",
+          "Ernesto Sabato",
+          "Mario Vargas Llosa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Pedro Páramo»?",
+        "options": [
+          "Juan Rulfo",
+          "Mario Benedetti",
+          "Rodolfo Walsh",
+          "Laura Esquivel"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La tregua»?",
+        "options": [
+          "Mario Benedetti",
+          "Pablo Neruda",
+          "Adolfo Bioy Casares",
+          "Alejo Carpentier"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Residencia en la tierra»?",
+        "options": [
+          "Pablo Neruda",
+          "Ernesto Sabato",
+          "Mario Vargas Llosa",
+          "Miguel Ángel Asturias"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «El túnel»?",
+        "options": [
+          "Ernesto Sabato",
+          "Rodolfo Walsh",
+          "Laura Esquivel",
+          "Gabriel García Márquez"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Operación Masacre»?",
+        "options": [
+          "Rodolfo Walsh",
+          "Adolfo Bioy Casares",
+          "Alejo Carpentier",
+          "Franz Kafka"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La invención de Morel»?",
+        "options": [
+          "Adolfo Bioy Casares",
+          "Mario Vargas Llosa",
+          "Miguel Ángel Asturias",
+          "Albert Camus"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La ciudad y los perros»?",
+        "options": [
+          "Mario Vargas Llosa",
+          "Laura Esquivel",
+          "Gabriel García Márquez",
+          "Gustave Flaubert"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Como agua para chocolate»?",
+        "options": [
+          "Laura Esquivel",
+          "Alejo Carpentier",
+          "Franz Kafka",
+          "Fiódor Dostoyevski"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «El reino de este mundo»?",
+        "options": [
+          "Alejo Carpentier",
+          "Miguel Ángel Asturias",
+          "Albert Camus",
+          "León Tolstói"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «El señor Presidente»?",
+        "options": [
+          "Miguel Ángel Asturias",
+          "Gabriel García Márquez",
+          "Gustave Flaubert",
+          "Herman Melville"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «El otoño del patriarca»?",
+        "options": [
+          "Gabriel García Márquez",
+          "Franz Kafka",
+          "Fiódor Dostoyevski",
+          "James Joyce"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La metamorfosis»?",
+        "options": [
+          "Franz Kafka",
+          "Albert Camus",
+          "León Tolstói",
+          "Marcel Proust"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La peste»?",
+        "options": [
+          "Albert Camus",
+          "Gustave Flaubert",
+          "Herman Melville",
+          "Oscar Wilde"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Madame Bovary»?",
+        "options": [
+          "Gustave Flaubert",
+          "Fiódor Dostoyevski",
+          "James Joyce",
+          "Robert Louis Stevenson"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Crimen y castigo»?",
+        "options": [
+          "Fiódor Dostoyevski",
+          "León Tolstói",
+          "Marcel Proust",
+          "Alexandre Dumas"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Guerra y paz»?",
+        "options": [
+          "León Tolstói",
+          "Herman Melville",
+          "Oscar Wilde",
+          "Julio Verne"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Moby Dick»?",
+        "options": [
+          "Herman Melville",
+          "James Joyce",
+          "Robert Louis Stevenson",
+          "Jorge Luis Borges"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Ulises»?",
+        "options": [
+          "James Joyce",
+          "Marcel Proust",
+          "Alexandre Dumas",
+          "Juan Rulfo"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «En busca del tiempo perdido»?",
+        "options": [
+          "Marcel Proust",
+          "Oscar Wilde",
+          "Julio Verne",
+          "Mario Benedetti"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «El retrato de Dorian Gray»?",
+        "options": [
+          "Oscar Wilde",
+          "Robert Louis Stevenson",
+          "Jorge Luis Borges",
+          "Pablo Neruda"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «La isla del tesoro»?",
+        "options": [
+          "Robert Louis Stevenson",
+          "Alexandre Dumas",
+          "Juan Rulfo",
+          "Ernesto Sabato"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Los tres mosqueteros»?",
+        "options": [
+          "Alexandre Dumas",
+          "Julio Verne",
+          "Mario Benedetti",
+          "Rodolfo Walsh"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién escribió «Viaje al centro de la Tierra»?",
+        "options": [
+          "Julio Verne",
+          "Jorge Luis Borges",
+          "Pablo Neruda",
+          "Adolfo Bioy Casares"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué país surgió el chaturanga, precursor del ajedrez?",
+        "options": [
+          "India",
+          "China",
+          "Egipto",
+          "Grecia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué estrecho separa Europa de África entre España y Marruecos?",
+        "options": [
+          "Gibraltar",
+          "Bering",
+          "Ormuz",
+          "Magallanes"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué canal une el Mediterráneo con el mar Rojo?",
+        "options": [
+          "Suez",
+          "Panamá",
+          "Kiel",
+          "Corinto"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es la fosa oceánica más profunda conocida?",
+        "options": [
+          "Marianas",
+          "Puerto Rico",
+          "Perú-Chile",
+          "Japón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué río atraviesa Budapest?",
+        "options": [
+          "Danubio",
+          "Rin",
+          "Sena",
+          "Támesis"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué cordillera separa gran parte de España y Francia?",
+        "options": [
+          "Pirineos",
+          "Alpes",
+          "Cárpatos",
+          "Balcanes"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué civilización construyó Machu Picchu?",
+        "options": [
+          "Inca",
+          "Maya",
+          "Azteca",
+          "Fenicia"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué siglo comenzó la Revolución francesa?",
+        "options": [
+          "XVIII",
+          "XVI",
+          "XVII",
+          "XIX"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿En qué año cayó el Muro de Berlín?",
+        "options": [
+          "1989",
+          "1979",
+          "1991",
+          "1999"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué ciudad albergó los Juegos Olímpicos de 1968?",
+        "options": [
+          "Ciudad de México",
+          "Tokio",
+          "Múnich",
+          "Montreal"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál de estos planetas tiene el día sidéreo más largo?",
+        "options": [
+          "Venus",
+          "Marte",
+          "Júpiter",
+          "Saturno"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué planeta tiene por lunas a Fobos y Deimos?",
+        "options": [
+          "Marte",
+          "Júpiter",
+          "Neptuno",
+          "Urano"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué planeta orbita el satélite Titán?",
+        "options": [
+          "Saturno",
+          "Urano",
+          "Júpiter",
+          "Neptuno"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué partícula del átomo tiene carga negativa?",
+        "options": [
+          "Electrón",
+          "Protón",
+          "Neutrón",
+          "Fotón"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué unidad del SI mide la resistencia eléctrica?",
+        "options": [
+          "Ohmio",
+          "Voltio",
+          "Amperio",
+          "Vatio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué unidad del SI mide la presión?",
+        "options": [
+          "Pascal",
+          "Julio",
+          "Vatio",
+          "Tesla"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué unidad del SI mide el flujo magnético?",
+        "options": [
+          "Weber",
+          "Tesla",
+          "Henrio",
+          "Faradio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué gas constituye la mayor proporción del aire seco terrestre?",
+        "options": [
+          "Nitrógeno",
+          "Oxígeno",
+          "Argón",
+          "Dióxido de carbono"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué orgánulo realiza la fotosíntesis en las plantas?",
+        "options": [
+          "Cloroplasto",
+          "Ribosoma",
+          "Lisosoma",
+          "Mitocondria"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué vitamina puede sintetizar la piel al exponerse a radiación UVB?",
+        "options": [
+          "D",
+          "A",
+          "C",
+          "K"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuál es el hueso más largo del cuerpo humano?",
+        "options": [
+          "Fémur",
+          "Húmero",
+          "Tibia",
+          "Radio"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué estructura del ojo regula cuánta luz entra por la pupila?",
+        "options": [
+          "Iris",
+          "Retina",
+          "Cristalino",
+          "Nervio óptico"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué artista pintó «Guernica»?",
+        "options": [
+          "Pablo Picasso",
+          "Salvador Dalí",
+          "Joan Miró",
+          "Diego Velázquez"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué artista pintó «La noche estrellada» de 1889?",
+        "options": [
+          "Vincent van Gogh",
+          "Claude Monet",
+          "Paul Gauguin",
+          "Edvard Munch"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué compositor escribió «Las cuatro estaciones»?",
+        "options": [
+          "Antonio Vivaldi",
+          "Johann S. Bach",
+          "Ludwig van Beethoven",
+          "Frédéric Chopin"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué compositor estrenó la ópera «La flauta mágica»?",
+        "options": [
+          "Wolfgang A. Mozart",
+          "Giuseppe Verdi",
+          "Giacomo Puccini",
+          "Gioachino Rossini"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién dirigió «Parásitos», ganadora del Óscar a mejor película en 2020?",
+        "options": [
+          "Bong Joon-ho",
+          "Park Chan-wook",
+          "Ang Lee",
+          "Akira Kurosawa"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién dirigió «El viaje de Chihiro»?",
+        "options": [
+          "Hayao Miyazaki",
+          "Isao Takahata",
+          "Makoto Shinkai",
+          "Satoshi Kon"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Quién dirigió la película argentina «El secreto de sus ojos»?",
+        "options": [
+          "Juan José Campanella",
+          "Damián Szifron",
+          "Pablo Trapero",
+          "Lucrecia Martel"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Qué estrecho conecta el golfo Pérsico con el golfo de Omán?",
+        "options": [
+          "Estrecho de Ormuz",
+          "Canal de Suez",
+          "Estrecho de Bering",
+          "Canal de Panamá"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es el 12,5 % de 240?",
+        "options": [
+          "30",
+          "24",
+          "36",
+          "48"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es la raíz cuadrada de 289?",
+        "options": [
+          "17",
+          "13",
+          "19",
+          "21"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es 2 elevado a la décima potencia?",
+        "options": [
+          "1024",
+          "512",
+          "1000",
+          "2048"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto suman los ángulos interiores de un pentágono plano?",
+        "options": [
+          "540°",
+          "360°",
+          "450°",
+          "720°"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuántas diagonales tiene un octágono?",
+        "options": [
+          "20",
+          "16",
+          "24",
+          "28"
+        ],
+        "correct": 0
+      },
+      {
+        "text": "¿Cuánto es 0,375 escrito como fracción irreducible?",
+        "options": [
+          "3/8",
+          "3/4",
+          "5/8",
+          "7/20"
+        ],
+        "correct": 0
+      }
+    ]
+  ]
+}
